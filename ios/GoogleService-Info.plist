@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>397695397562-torrt91nnhnndojglkthsmlijrdchali.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.397695397562-torrt91nnhnndojglkthsmlijrdchali</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>397695397562-sphp7nar4ae1em3aqmvancr8bnfsrlab.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAYdojajAjXqlTea7PONOL2otKwDAd5rrI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>397695397562</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cryer.me.ios</string>
+	<key>PROJECT_ID</key>
+	<string>project-706ea</string>
+	<key>STORAGE_BUCKET</key>
+	<string>project-706ea.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:397695397562:ios:b132dd5fa476a916459c83</string>
+	<key>DATABASE_URL</key>
+	<string>https://project-706ea.firebaseio.com</string>
+</dict>
+</plist>
